@@ -12,9 +12,6 @@
 6. 在Actions中运行，验证是否部署成功
 7. 请将仓库设置为private，确保你的私有密钥不会公开
 8. 给本项目点个Star，支持下本项目
-## 相关代码展示：
-<img width="894" height="601" alt="image" src="https://github.com/user-attachments/assets/d63d5e77-b03a-4ae5-a28c-b1463e325318" />
-
 
 ## 定时Action脚本代码：
 ```yaml
